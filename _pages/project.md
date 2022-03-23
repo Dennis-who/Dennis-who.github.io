@@ -12,7 +12,7 @@ We built a software performing automatic differentiation (AD) for the user. The 
 
 ## 2. [Mortality Prediction and Interpretation](files/Mortality.pdf)
 
-We used National Health And Nutrition Examination Survey I Epidemiologic Follow-up Study (NHEFS) dataset to predict a person's risk of dying. PCA was applied to deal with multicollinearity and reduce runtime and complexity for the later training. We performed KNN, Logistic Regression, Random Forest, AdaBoost, and Neural Network on data, and determined Random Forest to be the best model based on F1 score (0.803) and AUC (0.861). Feature importance WAS interpreted using SHAP value.
+We used National Health And Nutrition Examination Survey I Epidemiologic Follow-up Study (NHEFS) dataset to predict a person's risk of dying. PCA was applied to deal with multicollinearity and reduce runtime and complexity for the later training. We performed KNN, Logistic Regression, Random Forest, AdaBoost, and Neural Network on data, and determined Random Forest to be the best model based on F1 score (0.803) and AUC (0.861). Feature importance was interpreted using SHAP value.
 
 ## 3. [Does money buy happiness? What affects world happiness?](/files/STAT139_Final.pdf) 
 
