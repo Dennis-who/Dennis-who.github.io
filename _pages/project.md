@@ -4,7 +4,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Besides the projects in the Publication section, here are some more projects that I have conducted.  
+Besides the projects in the Publications section, here are some more projects that I have conducted.  
 
 ## 1. [Automatic Differentiation Python Library](https://github.com/cs107-swiftdiff/cs107-FinalProject)
 
