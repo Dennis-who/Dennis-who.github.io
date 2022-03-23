@@ -11,7 +11,7 @@ Senqi Zhang$^1$, **Li Sun$^1$**, Daiwei Zhang, Pin Li, Yue Liu, Zidian Xie, Dong
 
 Health Data Science, 2022
 
-1. Senqi Zhang and Li Sun contributed equally to this study.
+$^1$ Senqi Zhang and Li Sun contributed equally to this study.
 
 
 ### 2. [Public Reactions to the New York State Policy on Flavored Electronic Cigarettes on Twitter: Observational Study](https://publichealth.jmir.org/2022/2/e25216)
