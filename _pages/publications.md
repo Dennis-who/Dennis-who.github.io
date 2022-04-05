@@ -34,22 +34,27 @@ IEEE Big Data, 2020
 
 International journal of environmental research and public health, 2020
 
+### 5. [Perception of the Food and Drug Administration Electronic Cigarette Flavor Enforcement Policy on Twitter: Observational Study](https://publichealth.jmir.org/2022/3/e25697/)
 
-### 5. [Characteristics of and User Engagement With Antivaping Posts on Instagram: Observational Study](https://publichealth.jmir.org/2021/11/e29600)
+Xinyi Lu, **Li Sun**, Zidian Xie, Dongmei Li
+
+JMIR Public Health Surveill, 2022
+
+### 6. [Characteristics of and User Engagement With Antivaping Posts on Instagram: Observational Study](https://publichealth.jmir.org/2021/11/e29600)
 
 Yankun Gao, Zidian Xie, **Li Sun**, Chenliang Xu, Dongmei Li
 
 JMIR Public Health Surveill, 2021
 
 
-### 6. [Electronic Cigarette–Related Contents on Instagram: Observational Study and Exploratory Analysis](https://publichealth.jmir.org/2020/4/e21963)
+### 7. [Electronic Cigarette–Related Contents on Instagram: Observational Study and Exploratory Analysis](https://publichealth.jmir.org/2020/4/e21963)
 
 Yankun Gao, Zidian Xie, **Li Sun**, Chenliang Xu, Dongmei Li
 
 JMIR Public Health Surveill, 2020
 
 
-### 7. [Mental Health Concerns Related to the COVID-19 Pandemic on Twitter in the United Kingdom](https://www.omicsonline.org/open-access/mental-health-concerns-related-to-the-covid19-pandemic-on-twitter-in-the-united-kingdom-117793.html)
+### 8. [Mental Health Concerns Related to the COVID-19 Pandemic on Twitter in the United Kingdom](https://www.omicsonline.org/open-access/mental-health-concerns-related-to-the-covid19-pandemic-on-twitter-in-the-united-kingdom-117793.html)
 
 Daiwei Zhang, Yue Liu, Senqi Zhang, **Li Sun**, Pin Li, Zidian Xie, Dongmei Li
 
