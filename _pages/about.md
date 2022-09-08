@@ -10,7 +10,7 @@ redirect_from:
 
 ### Student at Harvard University
 
-I am a first-year Master’s student of the Data Science program at Harvard University. Before that, I graduated from University of Rochester double majoring in Data Science and Financial Economics. 
+I am a second-year Master’s student of the Data Science program at Harvard University. Before that, I graduated from University of Rochester double majoring in Data Science and Financial Economics. 
 
 ### Why Data Science
 
