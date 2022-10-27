@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dennis (Shiyi) Hu"
+title                    : "Dennis Hu"
 title_separator          : "-"
 name                     : &name "Dennis Hu"
 description              : &description "Hu's webpage"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dennis Hu"
+  name             : "Dennis (Shiyi) Hu"
   avatar           : "IMG_1190.JPG"
   bio              : "Data science & Economics student at NYU Shanghai"
   location         : "Shanghai, CHN"
