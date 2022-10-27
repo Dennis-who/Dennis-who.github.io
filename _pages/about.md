@@ -20,16 +20,20 @@ Outside of academics, I enjoy athletic training, reading and writing, listening 
 *(During vs. After I went skydiving in Dubai!)*
 
 
-![](/images/IMG_3706.HEIC)
+
+![](/images/1811666876429_.pic.jpg)
 
 *(Me and my mentor Isabelle Li Shen, after I offically became a Writing & Speaking Learning Assistant)*
+
 
 
 ![](/images/power100.gif)
 
 *(This is me power-cleaning 100kg, which was a PR)*
 
-![](/images/studio.jpg)
+
+![](/images/1821666876566_.pic.jpg)
+
 
 *(The recording room where I made my first song!)*
 
