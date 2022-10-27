@@ -4,11 +4,11 @@ main:
   - title: "Resume"
     url: /resume/
     
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /Research/
 
-  - title: "Projects"
-    url: /projects/    
+  - title: "Other Roles"
+    url: /other_roles/    
 
   - title: "Fun facts"
     url: /funfacts/    
