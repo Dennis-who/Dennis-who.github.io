@@ -15,6 +15,7 @@ I am a senior double majoring in Data Science and Economics at New York Universi
 Outside of academics, I enjoy athletic training, reading and writing, listening to and producing music, traveling… 
 
 ![](/images/power100.gif)
+
 *This is me power-cleaning 100kg, which was a PR*
 
 
