@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dennis Hu"
+title                    : "Dennis (Shiyi) Hu"
 title_separator          : "-"
-name                     : &name "Dennis (Shiyi) Hu"
+name                     : &name "Dennis Hu"
 description              : &description "Hu's webpage"
 url                      : https://dennis-who.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
