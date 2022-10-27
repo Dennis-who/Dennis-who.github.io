@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Sun"
+title                    : "Dennis Hu"
 title_separator          : "-"
-name                     : &name "Li Sun"
-description              : &description "Li's webpage"
-url                      : https://sunli-lisun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dennis (Shiyi) Hu"
+description              : &description "Hu's webpage"
+url                      : https://dennis-who.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sunli-lisun/sunli-lisun.github.io"
+repository               : "Dennis-who/dennis-who.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Li Sun"
+  name             : "Dennis Hu"
   avatar           : "profile.jpg"
-  bio              : "YOLO!"
-  location         : "Cambridge, MA"
+  bio              : "Data science & Economics student at NYU Shanghai"
+  location         : "Shanghai, CHN"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "lsun@g.harvard.edu"
+  email            : "sh5701@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sunli-lisun"
+  github           : "Dennis-who"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "li-sun-8a7a62103/"
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
