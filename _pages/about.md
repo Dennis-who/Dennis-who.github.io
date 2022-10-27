@@ -14,9 +14,24 @@ I am a senior double majoring in Data Science and Economics at New York Universi
 
 Outside of academics, I enjoy athletic training, reading and writing, listening to and producing music, traveling… 
 
+![](/images/F1A688E1-2CBA-4814-AEDC-313CFAA51FD4.jpeg)
+![](/images/B89DE591-3E05-4A8B-B6A9-217F43773065.jpeg)
+
+*(During vs. After I went skydiving in Dubai!)*
+
+
+![](/images/IMG_3706.HEIC)
+
+*(Me and my mentor Isabelle Li Shen, after I offically became a Writing & Speaking Learning Assistant)*
+
+
 ![](/images/power100.gif)
 
-*This is me power-cleaning 100kg, which was a PR*
+*(This is me power-cleaning 100kg, which was a PR)*
+
+![](/images/studio.jpg)
+
+*(The recording room where I made my first song!)*
 
 
 
