@@ -17,11 +17,15 @@ GPT-3 has achieved impressive results in general purpose question answering task
 
 *Our main result -- accuracy of prompt methods goes up as number of prompts increases*
 
-## 2. [Mortality Prediction and Interpretation](/files/Mortality.pdf)
+## NBA Winning Rate and Season Record Prediction[paper](/files/ML_Final_paper.pdf)
 
-We used National Health And Nutrition Examination Survey I Epidemiologic Follow-up Study (NHEFS) dataset to predict a person's risk of dying. PCA was applied to deal with multicollinearity and reduce runtime and complexity for the later training. We performed KNN, Logistic Regression, Random Forest, AdaBoost, and Neural Network on data, and determined Random Forest to be the best model based on F1 score (0.803) and AUC (0.861). Feature importance was interpreted using SHAP value.
+Statistics driven performance analysis has been gaining ground in all major sports leagues. Particularly, the National Basketball Association (NBA) is at the frontlines of transitioning to data-driven approaches. While various statistical models for predicting the MVP candidate and the championship possibilities have been developed, the field of single-game winning rate prediction has gone rather under-explored. Here we report our efforts in achieving accuracies of predicting single-game outcomes comparable to preexisting machine learning models. After formatting the raw dataset with aggregate functions that yield recent performance, we evaluated across five different models to generate our best guess at the W/L result. Since our model takes into account the lineups of each team, it also offers quantitative insights into NBA team’s roster management.
 
-## 3. [Does money buy happiness? What affects world happiness?](/files/STAT139_Final.pdf) 
+![](/images/ML_methods.jpg)
+
+*The ROC curves of all models we employed.*
+
+## [Does money buy happiness? What affects world happiness?](/files/STAT139_Final.pdf) 
 
 We performed several ordinary least squares models(OLS) and then mixed effect models to explore the relationship between happiness score and and other economic factors, social factors and etc collected by World happiness Report. We discovered that higher GDP values are positively correlated with higher happiness. Many other cultural, and social factors also have significant influence on happiness, such as percentage of people who have social support and the extent of satisfaction with the freedom to choose the lifestyle. Developed countries usually have positive relation between happiness score and health life expectancy, but some derdeveloping countries have negative relation between the two variables. 
 
