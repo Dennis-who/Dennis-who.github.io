@@ -4,11 +4,18 @@ permalink: /projects/
 author_profile: true
 ---
 
-Besides the projects in the Publications section, here are some more projects that I have conducted.  
 
-## 1. [Automatic Differentiation Python Library](https://github.com/cs107-swiftdiff/cs107-FinalProject)
+## Factual Generalization Capabilities of GPT-3 Across Domains[paper](/files/MLLU_final.pdf)
 
-We built a software performing automatic differentiation (AD) for the user. The AD software, SwiftDiff, sequentially evaluates elementary functions, and avoids the complexity of symbolic differentiation and precision issues of numerical differentiation. The system implements multiple methods of AD that compute the derivatives of a function in a single flow with machine precision and accuracy.
+GPT-3 has achieved impressive results in general purpose question answering tasks, exceeding human performance in some instances (Joshi et al., 2017), but still has its weaknesses. TruthfulQA (Lin et al., 2021)) looks at imitative falsehoods stemming from defections in the training dataset, and provides a benchmark of questions where the most common answer online will likely be false. Building on this, we present a further study on generalizing factuality across domains where such falsehoods are prone. We evaluate the effectiveness of different domain combinations and prompting techniques after cross-prompting among six domains. Further exploration of the general-ization capacities beyond questions present in TruthfulQA is then provided.
+
+![](/images/SampleQA.jpg)
+
+*Sample Question-Answer pairs from experiments using different prompting methods*
+
+![](/images/promtmethods.jpg)
+
+*Our main result -- accuracy of prompt methods goes up as number of prompts increases*
 
 ## 2. [Mortality Prediction and Interpretation](/files/Mortality.pdf)
 
