@@ -21,7 +21,7 @@ GPT-3 has achieved impressive results in general purpose question answering task
 
 Statistics driven performance analysis has been gaining ground in all major sports leagues. Particularly, the National Basketball Association (NBA) is at the frontlines of transitioning to data-driven approaches. While various statistical models for predicting the MVP candidate and the championship possibilities have been developed, the field of single-game winning rate prediction has gone rather under-explored. Here we report our efforts in achieving accuracies of predicting single-game outcomes comparable to preexisting machine learning models. After formatting the raw dataset with aggregate functions that yield recent performance, we evaluated across five different models to generate our best guess at the W/L result. Since our model takes into account the lineups of each team, it also offers quantitative insights into NBA team’s roster management.
 
-![](/images/ML_methods.jpg)
+![](/images/ML_methods.png)
 
 *The ROC curves of all models we employed.*
 
