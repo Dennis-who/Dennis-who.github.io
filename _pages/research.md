@@ -11,26 +11,40 @@ GPT-3 has achieved impressive results in general purpose question answering task
 
 ![](/images/SampleQA.jpg)
 
-*Sample Question-Answer pairs from experiments using different prompting methods*
+*Figure 1. Sample Question-Answer pairs from experiments using different prompting methods*
 
 ![](/images/promtmethods.jpg)
 
-*Our main result -- accuracy of prompt methods goes up as number of prompts increases*
+*Figure 2. Our main result -- accuracy of prompt methods goes up as number of prompts increases*
 
 ## NBA Winning Rate and Season Record Prediction [[paper]](/files/ML_Final_paper.pdf)
 
 Statistics driven performance analysis has been gaining ground in all major sports leagues. Particularly, the National Basketball Association (NBA) is at the frontlines of transitioning to data-driven approaches. While various statistical models for predicting the MVP candidate and the championship possibilities have been developed, the field of single-game winning rate prediction has gone rather under-explored. Here we report our efforts in achieving accuracies of predicting single-game outcomes comparable to preexisting machine learning models. After formatting the raw dataset with aggregate functions that yield recent performance, we evaluated across five different models to generate our best guess at the W/L result. Since our model takes into account the lineups of each team, it also offers quantitative insights into NBA team’s roster management.
 
+![](/images/Coef_Mat.png)
+
+*Figure 3. EDA: Correlation coefficient of all features including box scores.*
+
+
 ![](/images/ML_methods.png)
 
-*The ROC curves of all models we employed.*
+*Figure 4. The ROC curves of all models we employed.*
 
-## [Does money buy happiness? What affects world happiness?](/files/STAT139_Final.pdf) 
 
-We performed several ordinary least squares models(OLS) and then mixed effect models to explore the relationship between happiness score and and other economic factors, social factors and etc collected by World happiness Report. We discovered that higher GDP values are positively correlated with higher happiness. Many other cultural, and social factors also have significant influence on happiness, such as percentage of people who have social support and the extent of satisfaction with the freedom to choose the lifestyle. Developed countries usually have positive relation between happiness score and health life expectancy, but some derdeveloping countries have negative relation between the two variables. 
 
-## 4. [Ethical Analysis of Boston 311 Service: Observational Study](https://sunli-lisun.github.io/ac221/)
+## RL for CAD Flows and Secure Chip Design [[slides]](https://github.com/Dennis-who/Dennis-who.github.io/blob/5bac951fe0f85313c0db70cb64483fb85a2689ce/files/ML%20for%20CAD%20Flows%20and%20Secure%20Chip%20Design.pdf)
 
-Like many cities in the U.S., Boston offers a 311 line to connect citizens with non-emergency city services. This study combined the 311 service request datasets with demographic data, such as income, education level, poverty rate, race distribution, poverty rate, to answer the question: Does Boston provide 311 services fairly and equally to all citizens? As a result, while we found it unlikely that there is any explicit bias in Boston's 311 service provision (e.g. intentional prioritization of well-off neighborhoods or witholding of services from needy ones), we found discrepancies along demographic lines in the way the service is used, making it likely that neighborhoods do not receive equal treatment from city government through 311. Additionally, our analysis suggested that whiter and more well-off neighborhoods have a stronger preference for using the Citizen Connect App compared to their less well-off counterparts, which increased the likelihood that their cases are solved quickly and successfully. These factors, taken together, provided strong evidence for the existence of conditions leading to unequal outcomes along demographic lines, and a logical explanation for how it might occur. 
+Due to the increasing size of integrated circuits, their design and optimization phases (i.e., computer-aided design, CAD) grow increasingly complex. At design time, a large design space needs to be explored to find an implementation that fulfills all specifications and then optimizes metrics like energy, area, delay, reliability, etc. At run time, a large configuration space needs to be searched to find the best set of parameters (e.g., voltage/frequency) to further optimize the system. Both spaces are infeasible for exhaustive search typically leading to heuristic optimization algorithms that find some trade-off between design quality and computational overhead. Machine learning can build powerful models that have successfully been employed in related domains. In this project, we categorize how ML may be used and is used for design-time and run-time optimization and exploration strategies of ICs. A meta-study of published techniques unveils areas in CAD that are well-explored and underexplored with ML, as well as trends in the employed ML algorithms. We present a comprehensive categorization and summary of the state of the art on ML for CAD. Finally, we summarize remaining challenges and promising open research directions.
 
+![](/images/CAD.png)
+
+*Figure 5. The basic structure of incorporating ML into hardware design.*
+
+
+
+## [On-going] Diversity and Fairness in Music Recommendations
+
+Recommendation systems are algorithms used to match users to content based on the individual's history of interactions. With the abundance of commodities increasing and thus becoming impossible for a user to fully experience, the role of the recommender system is becoming more prominent in affecting people’s information feeds and decision making in terms of what music to listen to, what content to watch, or what products to purchase.
+
+Modern recommender systems have evolved rapidly, as have deep learning models that are well-optimized for overall performance. A recommendation algorithm that focuses solely on average performance, on the other hand, may reinforce the exposure bias in the training data and exacerbate the "rich-get-richer" effect, trapping users in a experience among certain subgroups. This is a common problem that many recommender systems suffer from popularity bias. This phenomenon is especially pronounced in music streaming platforms: more and more viral hits are produced by short video content such as those in TikTok, and users often have no choice but to hear those songs in every playlist.  However, recommending the ignored products in the "long tail" is critical for businesses as they are less likely to be discovered. With this in mind, a more fair and niche-sensitive recommender is needed.
 
