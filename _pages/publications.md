@@ -1,7 +1,6 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Other Roles"
+permalink: /otherroles/
 author_profile: true
 ---
 <!-- <img style="float: right;" src="mentalhealth.jpg"> -->
