@@ -4,7 +4,7 @@ permalink: /funfacts/
 author_profile: true
 ---
 
-I am a curious person and willing to spend time studying new things! Here are some fun facts about me. 
+
 
 ## Music Production
 
