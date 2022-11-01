@@ -6,11 +6,21 @@ author_profile: true
 
 I am a curious person and willing to spend time studying new things! Here are some fun facts about me. 
 
-## 1. Study American Sign Language
+## Music Production
 
-Knowing Rochester is home to one of the largest Deaf populations and our school offered American Sign Language (ASL) courses, I studied it for two years. I appreciated the opportunities to learn the beauty of ASL, attend Deaf community events, make friends with them, and learn their culture. <a href="https://www.youtube.com/watch?v=GTCA6u65JKQ">Sharing a story told in ASL ^.^</a>
+I taught myself how to make beats after I finished Gaokao. Originally I only made simple sample loops on FL Studio, after which I slowly progressed to Ableton Live. I have always been drawn to Frank Ocean's (who also happens to be my favorite musician) simplistic yet maximally detailed style of production. When I studied away at Abu Dhabi, I was fortunate to take Professor Matteo Marciano's production course, after which I produced a full PB R&B song (with vocals by Jiire Smith). 
 
-## 2. Light Designer & Producer of a theater group
-I have a great appreciation of theater arts, and in college, I enjoyed productions performed by our university theater groups. However, I found that even with several independent theater groups, all of them primarily produced works of North American theater. I aimed to diversify the theater community on campus by introducing a Chinese aesthetic, and to do so, I founded a group along with several others to introduce Chinese theater and culture to more people. 
- 
-As the light designer for two productions, I self-learned light designing, lighting equipments and procedures. As the producer, I led  a group of 45 students, oversaw and orchestrated four productions with donation increases 10% every semester. I also collaborated with students from other theater groups to organize workshops on theater group management and insights from different productions. 
+![](/images/Protools.png)
+
+*The song titled Undercurrent*
+
+Curious how it sounds? <a href="https://drive.google.com/file/d/1Hk-Bayrn9fpV_3f8-9fRdmyzpGeCVywX/view?usp=sharing">here</a> is a link to the mp3 file.
+
+## Athletic Training
+
+Coming into university with zero previous fitness experience, I trained through several different programming styles: bodybuilding, powerlifting, olympic weightlifting, Crossfit, and most recently sports performance training. I get immense joy from gaining new knowledge in this field and putting it into practice: I am now the strength and conditioning coach assistant, helping players on NYUSH's basketball team prevent injuries and rehabilitate if they have existing conditions. I am also studying to get NSCA certified!
+
+
+## Polydactyly
+
+I was born with a condition called [Polydactyly](https://en.wikipedia.org/wiki/Polydactyly), which means I had an abnormal number of fingers. In my case, I had an extra thumb in my dominant right hand. I underwent 3 surgeries to deal with the condition, but fortunately now I can go about most normal activities with no problem!
