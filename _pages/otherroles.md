@@ -3,27 +3,16 @@ title: "Other Roles"
 permalink: /otherroles/
 author_profile: true
 ---
-###  [The COVID-19 Pandemic and Mental Health Concerns on Twitter in the United States](https://spj.sciencemag.org/journals/hds/2022/9758408/)
-
-Senqi Zhang$^1$, **Li Sun$^1$**, Daiwei Zhang, Pin Li, Yue Liu, Zidian Xie, Dongmei Li
-
-Health Data Science, 2022
-
-$^1$ Senqi Zhang and Li Sun contributed equally to this study.
+###   Academic Writing and Speaking Tutoring
+Although I am a Data Science student, I also love to engage in non-technical reading and writing! I was nominated in my thrid semester of study by Professor Amy Goldman of the Global Writing Program to start work as a writing and speaking tutor. I especially enjoy the practicums every week on various writing topics, including poems, epics, science fiction, op-eds, etc. Now, helping other undergraduate students engage in multimodal texts is an indispensable part of my daily routine.
 
 
-### 2. [Public Reactions to the New York State Policy on Flavored Electronic Cigarettes on Twitter: Observational Study](https://publichealth.jmir.org/2022/2/e25216)
-
-**Li Sun**, Xinyi Lu, Zidian Xie, Dongmei Li
-
-JMIR Public Health Surveill, 2022
+### International Youth Neuroscience Association at NYUSH
+I was the head of events committee when we planned for the Brain Awareness Week 2020. It was a week-long themed event culminating in a paper contest and presentation on topics in neuroscience. For the event to go smoothly, I reached out to professors at Tongji University to be judges and panelists on the last day. In the end, more than 300 contestants turned out to the event, which was almost double the number from last year.
 
 
-### 3. [Content-based Analysis of the Cultural Differences between TikTok and Douyin](https://arxiv.org/abs/2011.01414)
-
-**Li Sun**, Haoqi Zhang, Songyang Zhang, Jiebo Luo
-
-IEEE Big Data, 2020
+### UnCoVer
+At the start of the pandemic in 2020, many societal issues have bubbled to public vision because of exacerbation from the virus. Together with 5 other students, I started a WeChat official account called UnCoVer, intended as a pun to both the name of the virus and our visions for the account. We went out and interviewed delivery people working under harsh conditions, blind massmasseuses who never got a massage themselves; we also translated original poems and op-eds both in English and Chinese for the larger audience to see. We worked purely out of volunteerism, and we could not afford ads to grow our platform. However, this is still among activities that I'm most proud of through my three and a half years in college.
 
 
 ### 4. [Promotion of Disposable Electronic Cigarette Flavors and Topics on Twitter](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7764575/)
