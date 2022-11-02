@@ -15,38 +15,9 @@ I was the head of events committee when we planned for the Brain Awareness Week 
 At the start of the pandemic in 2020, many societal issues have bubbled to public vision because of exacerbation from the virus. Together with 5 other students, I started a WeChat official account called UnCoVer, intended as a pun to both the name of the virus and our visions for the account. We went out and interviewed delivery people working under harsh conditions, blind massmasseuses who never got a massage themselves; we also translated original poems and op-eds both in English and Chinese for the larger audience to see. We worked purely out of volunteerism, and we could not afford ads to grow our platform. However, this is still among activities that I'm most proud of through my three and a half years in college.
 
 
-### 4. [Promotion of Disposable Electronic Cigarette Flavors and Topics on Twitter](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7764575/)
+### SHKP Charity Run and Shanghai Marathon
+I firmly believe in the power of sports to change lives and affect positive social good. Except for 2020 when both events were cancelled due to COVID-19, I volunteer every year since entering college to distribute medals, deliver food and medicine, and schedule events. In 2019, I entered as a contestant in the SHKP vertical run and finished fourth.
 
-**Li Sun**, Chunliang Tao, Zidian Xie, Dongmei Li
-
-International journal of environmental research and public health, 2020
-
-### 5. [Perception of the Food and Drug Administration Electronic Cigarette Flavor Enforcement Policy on Twitter: Observational Study](https://publichealth.jmir.org/2022/3/e25697/)
-
-Xinyi Lu, **Li Sun**, Zidian Xie, Dongmei Li
-
-JMIR Public Health Surveill, 2022
-
-### 6. [Characteristics of and User Engagement With Antivaping Posts on Instagram: Observational Study](https://publichealth.jmir.org/2021/11/e29600)
-
-Yankun Gao, Zidian Xie, **Li Sun**, Chenliang Xu, Dongmei Li
-
-JMIR Public Health Surveill, 2021
-
-
-### 7. [Electronic Cigarette–Related Contents on Instagram: Observational Study and Exploratory Analysis](https://publichealth.jmir.org/2020/4/e21963)
-
-Yankun Gao, Zidian Xie, **Li Sun**, Chenliang Xu, Dongmei Li
-
-JMIR Public Health Surveill, 2020
-
-
-### 8. [Mental Health Concerns Related to the COVID-19 Pandemic on Twitter in the United Kingdom](https://www.omicsonline.org/open-access/mental-health-concerns-related-to-the-covid19-pandemic-on-twitter-in-the-united-kingdom-117793.html)
-
-Daiwei Zhang, Yue Liu, Senqi Zhang, **Li Sun**, Pin Li, Zidian Xie, Dongmei Li
-
-
-Journal of Infectious Diseases & Therapy, 2021
 
 
 
