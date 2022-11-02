@@ -25,7 +25,7 @@ Outside of academics, I enjoy athletic training, reading and writing, listening 
 
 ![](/images/1811666876429_.pic.jpg)
 
-*(Me and my mentor Isabelle Li Shen, after I offically became a Writing & Speaking Learning Assistant)*
+*(Me and my mentor Isabelle Li Shen, after I officially became a Writing & Speaking Learning Assistant)*
 
 
 
