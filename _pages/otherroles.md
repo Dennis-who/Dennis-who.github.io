@@ -12,11 +12,11 @@ I was the head of events committee when we planned for the Brain Awareness Week 
 
 
 ### UnCoVer
-At the start of the pandemic in 2020, many societal issues have bubbled to public vision because of exacerbation from the virus. Together with 5 other students, I started a WeChat official account called UnCoVer, intended as a pun to both the name of the virus and our visions for the account. We went out and interviewed delivery people working under harsh conditions, blind massmasseuses who never got a massage themselves; we also translated original poems and op-eds both in English and Chinese for the larger audience to see. We worked purely out of volunteerism, and we could not afford ads to grow our platform. However, this is still among activities that I'm most proud of through my three and a half years in college.
+At the start of the pandemic in 2020, many societal issues have bubbled to public vision because of exacerbation from the virus. Together with 5 other students, I started a WeChat official account called UnCoVer, intended as a pun to both the name of the virus and our visions for the account. We went out and interviewed delivery people working under harsh conditions, blind masseuses who never got a massage themselves; we also translated original poems and op-eds both in English and Chinese for the larger audience to see. We worked purely out of volunteerism, and we could not afford ads to grow our platform. However, this is still among activities that I'm most proud of through my three and a half years in college.
 
 
 ### SHKP Charity Run and Shanghai Marathon
-I firmly believe in the power of sports to change lives and affect positive social good. Except for 2020 when both events were cancelled due to COVID-19, I volunteer every year since entering college to distribute medals, deliver food and medicine, and schedule events. In 2019, I entered as a contestant in the SHKP vertical run and finished fourth.
+I firmly believe in the power of sports to change lives and contribute to social good. Except for 2020 when both events were cancelled due to COVID-19, I volunteer every year since entering college to distribute medals, deliver food and medicine, and schedule events. In 2019, I entered as a contestant in the SHKP vertical run and finished fourth.
 
 
 
