@@ -1,6 +1,5 @@
 ---
 permalink: /resume/
-title: "Resume"
 ---
 
 
@@ -15,7 +14,10 @@ BS in Data Science, BS in Economics | **GPA**: 3.912/4.00
 * New York University Abu Dhabi – Fall 2021	
 * New York University New York – Spring 2022	
 
-**Awards**: Peng Yachao Global Excellence Scholarship | NYU Shanghai 2022 Recognition Award | Dean’s List 2020, 2021, 2022
+**Awards**: 
+* Peng Yachao Global Excellence Scholarship 
+* NYU Shanghai 2022 Recognition Award 
+* Dean’s List 2020, 2021, 2022
 
 Research Experience
 ======
