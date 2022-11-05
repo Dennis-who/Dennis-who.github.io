@@ -1,6 +1,6 @@
 ---
-title: "Other Roles"
-permalink: /otherroles/
+title: "Leadership"
+permalink: /leadership/
 author_profile: true
 ---
 ###   Academic Writing and Speaking Tutoring
