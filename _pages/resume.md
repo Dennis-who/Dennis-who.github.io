@@ -3,7 +3,7 @@ permalink: /resume/
 ---
 
 
-For a PDF version of my resume, please click [here](/files/Dennis_Hu_Resume_1101.pdf).
+（For a PDF version of my resume, please click [here](/files/Dennis_Hu_Resume_1101.pdf).）
 
 
 Education
