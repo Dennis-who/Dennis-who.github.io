@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Dennis Hu"
+excerpt: "Dennis Hu"
 author_profile: true
 redirect_from: 
   - /about/
