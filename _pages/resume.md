@@ -17,7 +17,7 @@ BS in Data Science, BS in Economics | **GPA**: 3.912/4.00
 **Awards**: 
 * Peng Yachao Global Excellence Scholarship 
 * NYU Shanghai 2022 Recognition Award 
-* Dean’s List 2020, 2021, 2022
+* Dean’s List 2020, 2021, 2022 (all eligible years)
 
 Research Experience
 ======
