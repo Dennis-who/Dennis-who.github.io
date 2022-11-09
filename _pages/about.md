@@ -9,19 +9,23 @@ redirect_from:
 ---
 
 
+<img src="/images/IMG_1188.JPG"  width="400"/>
 
 Hi there! I am a senior student double majoring in Data Science and Economics at New York University Shanghai. I have worked on research topics in sports analytics, hardware security, and large language models. Currently, I am a data management volunteer at the World Food Program (WFP) of the UN, a business analytics intern at Craft Associates, and an algorithmic fairness researcher. 
 
 Outside of academics, I enjoy athletic training, reading and writing, listening to and producing music, traveling… 
 
-![](/images/F1A688E1-2CBA-4814-AEDC-313CFAA51FD4.jpeg)
-![](/images/B89DE591-3E05-4A8B-B6A9-217F43773065.jpeg)
+<img src="/images/F1A688E1-2CBA-4814-AEDC-313CFAA51FD4.jpeg"  width="600"/>
+<img src="/images/B89DE591-3E05-4A8B-B6A9-217F43773065.jpeg"  width="600"/>
+
 
 *(During vs. After I went skydiving in Dubai!)*
 
 
 
-![](/images/1811666876429_.pic.jpg)
+
+<img src="/images/1811666876429_.pic.jpg"  width="400"/>
+
 
 *(Me and my mentor Isabelle Li Shen, after I officially became a Writing & Speaking Learning Assistant)*
 
@@ -32,7 +36,7 @@ Outside of academics, I enjoy athletic training, reading and writing, listening 
 *(This is me power-cleaning 100kg, which was a PR)*
 
 
-![](/images/1821666876566_.pic.jpg)
+<img src="/images/1821666876566_.pic.jpg"  width="600"/>
 
 
 *(The recording room where I made my first song!)*
