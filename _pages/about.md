@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-<img src="/images/IMG_1188.JPG"  width="400"/>
-
 Hi there! I am a senior student double majoring in Data Science and Economics at New York University Shanghai. I have worked on research topics in sports analytics, hardware security, and large language models. Currently, I am a data management volunteer at the World Food Program (WFP) of the UN, a business analytics intern at Craft Associates, and an algorithmic fairness researcher. 
 
 Outside of academics, I enjoy athletic training, reading and writing, listening to and producing music, traveling… 
