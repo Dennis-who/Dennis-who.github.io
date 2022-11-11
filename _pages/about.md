@@ -12,6 +12,10 @@ Hi there! I am a senior student double majoring in Data Science and Economics at
 
 Outside of academics, I enjoy athletic training, reading and writing, listening to and producing music, traveling… 
 
+
+
+
+
 <img src="/images/F1A688E1-2CBA-4814-AEDC-313CFAA51FD4.jpeg"  width="600"/>
 <img src="/images/B89DE591-3E05-4A8B-B6A9-217F43773065.jpeg"  width="600"/>
 
