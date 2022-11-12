@@ -20,7 +20,7 @@ Outside of academics, I enjoy athletic training, reading and writing, listening 
 <img src="/images/B89DE591-3E05-4A8B-B6A9-217F43773065.jpeg"  width="600"/>
 
 
-*(During vs. After I went skydiving in Dubai!)*
+*(After I went skydiving in Dubai)*
 
 
 
