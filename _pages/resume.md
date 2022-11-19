@@ -3,7 +3,7 @@ permalink: /resume/
 ---
 
 
-（For a PDF version of my resume, please click [here](/files/Dennis_Hu_Resume_1101.pdf).）
+（For a PDF version of my resume, please click [here](/files/Dennis_Hu_Resume_1119.pdf).）
 
 
 Education
@@ -82,7 +82,7 @@ Community Service
 *	Distributed medals to the half-marathon and 10k race, helped with delivering food and medicine to 8 designated spots
 
 **SHKP Charity Run**, Volunteer								            					
-*	Helped plan reception and scheduling for 17,000+ runners in charity for the Shanghai Children’s Healthy Foundation
+*	Helped plan reception and scheduling for 17,000+ runners in charity for the Shanghai Children Health Foundation
 
 Skills & Interests
 ======
