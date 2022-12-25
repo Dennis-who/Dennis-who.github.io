@@ -10,7 +10,7 @@ Education
 ======
 **New York University Shanghai**      
 
-BS in Data Science, BS in Economics | **GPA**: 3.912/4.00	
+BS in Data Science, BS in Economics | **GPA**: 3.92/4.00	
 * New York University Abu Dhabi – Fall 2021	
 * New York University New York – Spring 2022	
 
