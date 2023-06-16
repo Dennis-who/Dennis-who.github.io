@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a graduate student studying data science at New York University. I have worked on research topics in sports analytics, hardware security, and large language models. Currently, I am a data management volunteer at the World Food Program (WFP) of the UN, a business analytics intern at Craft Associates, and an algorithmic fairness researcher. I graduated in May 2019 from NYU Shanghai with a double major in data science and economics.
+Hi there! I am a graduate student studying data science at New York University. I have worked on research topics in sports analytics, hardware security, and large language models. Currently, I am a data management volunteer at the World Food Program (WFP) of the UN, a business analytics intern at Craft Associates, and an algorithmic fairness researcher. 
+
+I graduated in May 2019 from NYU Shanghai with a double major in data science and economics. Learn about my journey there with this [article](https://shanghai.nyu.edu/stories/dennis-hu-shiyi-23-following-his-heart)!
 
 Outside of academics, I enjoy athletic training, reading and writing, listening to and producing music, traveling… 
 
@@ -19,28 +21,6 @@ Outside of academics, I enjoy athletic training, reading and writing, listening 
 
 <img src="/images/B89DE591-3E05-4A8B-B6A9-217F43773065.jpeg"  width="600"/>
 
-
-*(After I went skydiving in Dubai)*
-
-
-
-
-<img src="/images/1811666876429_.pic.jpg"  width="400"/>
-
-
-*(Me and my mentor Isabelle Li Shen, after I officially became a Writing & Speaking Learning Assistant)*
-
-
-
-![](/images/power100.gif)
-
-*(This is me power-cleaning 100kg, which was a PR)*
-
-
-<img src="/images/1821666876566_.pic.jpg"  width="600"/>
-
-
-*(The recording room where I made my first song!)*
 
 
 
