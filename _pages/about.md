@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a senior student double majoring in Data Science and Economics at New York University Shanghai. I have worked on research topics in sports analytics, hardware security, and large language models. Currently, I am a data management volunteer at the World Food Program (WFP) of the UN, a business analytics intern at Craft Associates, and an algorithmic fairness researcher. 
+Hi there! I am a graduate student studying data science at New York University. I have worked on research topics in sports analytics, hardware security, and large language models. Currently, I am a data management volunteer at the World Food Program (WFP) of the UN, a business analytics intern at Craft Associates, and an algorithmic fairness researcher. I graduated in May 2019 from NYU Shanghai with a double major in data science and economics.
 
 Outside of academics, I enjoy athletic training, reading and writing, listening to and producing music, traveling… 
 
