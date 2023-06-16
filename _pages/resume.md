@@ -10,11 +10,12 @@ Education
 ======
 **New York University Shanghai**      
 
-BS in Data Science, BS in Economics | **GPA**: 3.925/4.00	
+BS in Data Science, BS in Economics | **GPA**: 3.93/4.00	
 * New York University Abu Dhabi – Fall 2021	
 * New York University New York – Spring 2022	
 
 **Awards**: 
+* Summa Cum Laude
 * Peng Yachao Global Excellence Scholarship 
 * NYU Shanghai 2022 Recognition Award 
 * Dean’s List 2020, 2021, 2022 (all eligible years)
