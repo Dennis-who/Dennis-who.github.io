@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a graduate student studying data science at New York University. I have worked on research topics in sports analytics, hardware security, and large language models. Currently, I am a data management volunteer at the World Food Program (WFP) of the UN, a business analytics intern at Craft Associates, and an algorithmic fairness researcher. 
+Hi there! I am a first-year M.S. student studying data science at New York University. I have worked on research topics in ML-supported sports analytics, hardware security, and large language models. Currently, I am a data management volunteer at the World Food Program (WFP) of the UN, a business analytics intern at Craft Associates, and an algorithmic fairness researcher. 
 
-I graduated in May 2019 from NYU Shanghai with a double major in data science and economics. Learn about my journey there with this [article](https://shanghai.nyu.edu/stories/dennis-hu-shiyi-23-following-his-heart)!
+I graduated in May 2023 from NYU Shanghai with a double major in data science and economics. Learn about my journey there with this [article](https://shanghai.nyu.edu/stories/dennis-hu-shiyi-23-following-his-heart)!
 
 Outside of academics, I enjoy athletic training, reading and writing, listening to and producing music, traveling… 
 
