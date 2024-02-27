@@ -20,7 +20,7 @@ Curious how it sounds? <a href="https://drive.google.com/file/d/1Hk-Bayrn9fpV_3f
 
 Coming into university with zero previous fitness experience, I trained through several different programming styles: bodybuilding, powerlifting, olympic weightlifting, Crossfit, and most recently sports performance training. I get immense joy from gaining new knowledge in this field and putting it into practice: I am now the strength and conditioning coach assistant, helping players on NYUSH's basketball team prevent injuries and rehabilitate if they have existing conditions. I am also studying to get NSCA certified!
 
-![](/images/workout.jpg)
+![](/images/Dunking.jpg)
 
 ## Polydactyly
 
