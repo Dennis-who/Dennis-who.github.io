@@ -3,7 +3,7 @@ permalink: /resume/
 ---
 
 
-# Shiyi (Dennis) Hu
+
 
 ## Education and Honors
 
