@@ -3,7 +3,7 @@ permalink: /resume/
 ---
 
 
-
+Dennis Hu
 
 ## Education and Honors
 
